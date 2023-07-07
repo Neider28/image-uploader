@@ -25,10 +25,14 @@ export default function UploadSuccess({ urlImage }) {
 			<h1>{error ? 'Uploaded failed!' : 'Uploaded successfully!'}</h1>
 			{urlImage && <Image src={urlImage} alt='Image Uploaded' width={0} height={0}
 				style={{ width: '100%', height: 'auto', borderRadius: '12px' }} priority={true} />}
-			<div className={styles.copy_container}>
-				<input type="text" ref={text} />
-				<button type="button" onClick={() => copyLink()}>Copy Link</button>
-			</div>
+			{
+				!error && (
+					<div className={styles.copy_container}>
+						<input type="text" ref={text} />
+						<button type="button" onClick={() => copyLink()}>Copy Link</button>
+					</div>
+				)
+			}
 			{
 				copy && (
 					<span>Copied link</span>
