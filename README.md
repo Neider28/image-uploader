@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Image Uploader</h1>
+<p align="left">An Image Uploader application🏆. By devChallenges 👾. It was developed with Next.js, React.js and CSS. Deployed in Vercel 👌. The backend of the app was also built by me 😎.</p>
+<p align="left"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" width="105" height="30"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" width="100" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="90" height="30"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="100" height="30"/> </p>
 
-## Getting Started
+<h3 align="left">🔧 Characteristics:</h3>
+<ul>
+  <li>You can drag and drop an image to upload it.</li>
+  <li>You can choose to select an image from your folder.</li>
+  <li>You can see a loader when uploading.</li>
+  <li>When the image is uploaded, you can see the image and copy it.</li>
+  <li>You can choose to copy to the clipboard.</li>
+</ul>
 
-First, run the development server:
+<h3 align="left">🔨 Previous Requirements:</h3>
+<p align="left">You must have node installed on your computer to run the project 📌.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<h3 align="left">📲 Screenshots:</h3>
+<p align="center"> <img src="https://i.postimg.cc/NFt8yTqL/image-uploader.png" alt="screenshot 1" width="100%" /> </p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center"> <img src="https://i.postimg.cc/wjzBSV51/image-uploader-2.png" alt="screenshot 1" width="100%" /> </p>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<p align="center"> <img src="https://i.postimg.cc/pLVHf1YJ/image-uploader-3.png" alt="screenshot 1" width="100%" /> </p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h3 align="left">✅ Installation:</h3>
+<ul>
+  <li>Clone the repository with the command: <code>git clone https://github.com/Neider28/image-uploader.git</code></li>
+  <li>Install the project dependencies with the command: <code>npm install</code></li>
+  <li>Run the project with the command: <code>npm run dev</code></li>
+</ul>
