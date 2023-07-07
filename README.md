@@ -1,5 +1,5 @@
 <h1 align="center">Image Uploader</h1>
-<p align="left">An Image Uploader application🏆. By devChallenges 👾. It was developed with Next.js, React.js and CSS. Deployed in Vercel 👌. The backend of the app was also built by me 😎.</p>
+<p align="left">An Image Uploader application 🏆. By devChallenges 👾. It was developed with Next.js, React.js and CSS. Deployed in Vercel 👌. The backend of the app was also built by me 😎.</p>
 <p align="left"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" width="105" height="30"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" width="100" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="90" height="30"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="100" height="30"/> </p>
 
 <h3 align="left">🔧 Characteristics:</h3>
