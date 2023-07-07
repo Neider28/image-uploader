@@ -16,7 +16,9 @@ export default function UploadSuccess({ urlImage }) {
 	};
 
 	useEffect(() => {
-		text.current.value = urlImage;
+		if (!error) {
+			text.current.value = urlImage;
+		}
 	}, [urlImage]);
 
 	return (
