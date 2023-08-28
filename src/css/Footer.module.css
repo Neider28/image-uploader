@@ -1,9 +1,8 @@
 .footer_container {
 	width: 100%;
 	height: auto;
-	padding: 20px 0px;
 	position: absolute;
-	bottom: 0;
+	bottom: 20px;
 }
 
 .footer_container p {

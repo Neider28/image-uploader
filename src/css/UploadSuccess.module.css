@@ -1,6 +1,7 @@
 .success_container {
 	width: 90%;
 	height: auto;
+	margin: 100px 0px;
 	padding: 32px;
 	display: flex;
 	flex-direction: column;

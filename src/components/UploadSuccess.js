@@ -25,7 +25,7 @@ export default function UploadSuccess({ urlImage }) {
 		<div className={styles.success_container}>
 			<Image src={error ? errorSVG : check} alt='Check Success' height={42} width={42} priority={true} />
 			<h1>{error ? 'Uploaded failed!' : 'Uploaded successfully!'}</h1>
-			{urlImage && <Image src={urlImage} alt='Image Uploaded' width={0} height={0}
+			{urlImage && <Image src={urlImage} alt='Image Uploaded' width={1000} height={1000}
 				style={{ width: '100%', height: 'auto', borderRadius: '12px' }} priority={true} />}
 			{
 				!error && (
